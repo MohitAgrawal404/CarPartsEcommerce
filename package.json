@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crypto-es": "^1.2.7",
+    "nodemon": "^2.0.19"
+  }
+}
